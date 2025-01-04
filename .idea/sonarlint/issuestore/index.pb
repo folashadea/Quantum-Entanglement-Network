@@ -9,3 +9,5 @@ Q
 !contracts/quantum-governance.clar,5/8/58b1cc9c91778d0b3a1bdc9f1b142c4c35eb598f
 P
  tests/quantum-governance.test.ts,c/c/cce70cafa2d454dda503df7fdcad041e0a4f9f63
+W
+'contracts/quantum-key-distribution.clar,6/6/6662ef24e371b08bec76a60e0596e93a0bcfcfb0
