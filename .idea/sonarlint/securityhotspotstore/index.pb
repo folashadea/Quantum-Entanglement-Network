@@ -1,3 +1,19 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+\
+,contracts/quantum-bandwidth-marketplace.clar,8/9/89d22422d3e8e4eb97a22330b61aaf65c01890cc
+[
++tests/quantum-bandwidth-marketplace.test.ts,d/3/d3d14848157c7b598a8044a51962fbc907bf4c9b
+Q
+!contracts/quantum-governance.clar,5/8/58b1cc9c91778d0b3a1bdc9f1b142c4c35eb598f
+P
+ tests/quantum-governance.test.ts,c/c/cce70cafa2d454dda503df7fdcad041e0a4f9f63
+W
+'contracts/quantum-key-distribution.clar,6/6/6662ef24e371b08bec76a60e0596e93a0bcfcfb0
+V
+&tests/quantum-key-distribution.test.ts,b/4/b4ffc977a6b8bdbbeb589ff08f2a5988767e5734
+V
+&contracts/quantum-pair-management.clar,9/b/9b5425b9f57c9c042d4e67630f356f5cb93c32f8
+U
+%tests/quantum-pair-management.test.ts,c/4/c4350da4ee6ced75d786f6f7fb549c7d226ecce1
