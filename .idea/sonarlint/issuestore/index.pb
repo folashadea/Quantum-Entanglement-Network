@@ -13,3 +13,5 @@ W
 'contracts/quantum-key-distribution.clar,6/6/6662ef24e371b08bec76a60e0596e93a0bcfcfb0
 V
 &tests/quantum-key-distribution.test.ts,b/4/b4ffc977a6b8bdbbeb589ff08f2a5988767e5734
+V
+&contracts/quantum-pair-management.clar,9/b/9b5425b9f57c9c042d4e67630f356f5cb93c32f8

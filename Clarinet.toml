@@ -19,6 +19,11 @@ epoch = 2.5
 path = 'contracts/quantum-key-distribution.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.quantum-pair-management]
+path = 'contracts/quantum-pair-management.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
