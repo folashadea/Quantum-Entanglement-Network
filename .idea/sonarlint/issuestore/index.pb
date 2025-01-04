@@ -5,3 +5,5 @@
 ,contracts/quantum-bandwidth-marketplace.clar,8/9/89d22422d3e8e4eb97a22330b61aaf65c01890cc
 [
 +tests/quantum-bandwidth-marketplace.test.ts,d/3/d3d14848157c7b598a8044a51962fbc907bf4c9b
+Q
+!contracts/quantum-governance.clar,5/8/58b1cc9c91778d0b3a1bdc9f1b142c4c35eb598f
